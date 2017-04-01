@@ -1,3 +1,3 @@
 # TodolistApp
 
-Aplikasi To Do List App Sederhana menggunakan Android Studio
+Aplikasi To Do List Sederhana menggunakan Android Studio
